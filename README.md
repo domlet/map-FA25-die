@@ -7,8 +7,8 @@
 ["Run of my memories" App](https://diegol32p1.github.io/my-first-map-/)  is a one-page, mobile-friendly web app that offers interactive maps for five cycling routes in the SF Bay Area. 
 
 Users can...
-1. **Toggle through all the maps**, by clicking on the map and moving the mouse to go where you want. 
-1. **Explore each map** by using gestures to zoom in/out anywhere, rotate the map orientation, or change the pitch (angle).
+1. **Explore the map**, by clicking on the map and moving the mouse to go where you want. 
+1. **Explore the map** by using gestures to zoom in/out anywhere, rotate the map orientation, or change the pitch (angle).
 
 Here's a demo:
 
@@ -23,7 +23,7 @@ I built this because I wanted to show the places that meant something to me, als
 
 To build this app, I used the following tools:
 
-1. [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/guides) library, for styling and displaying maps and route lines, and adding camera behaviors (flyto animations).
+1. [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/guides) library, for styling and displaying maps.
 2. [Visual Studio Code](https://code.visualstudio.com/download) free IDE, with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extensions.
 3. [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site), for publishing the app for free!
 
@@ -39,10 +39,8 @@ Check it out:
 
 
 
-<img src="IMG/download.png" alt="GIF demo showing 3d terrain" />
-
-_Exaggerating the elevation profile makes the map more exciting._
+<img src="IMG/download.png" alt="image" />
 
 ## Contributions
 
-Feel free to copy the code if you want it! Comments are welcome on [this blog post](https://domlet.github.io/posts/bike-the-bay/).
+Feel free to copy the code if you want it!
